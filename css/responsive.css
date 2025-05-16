@@ -22,52 +22,7 @@
     main .intro-text .ux-ui-port {
         font-size: 8.5rem;
     }
-
-    /* 백그라운드 사진들 */
-    .intro-animation .fade2 {
-        width: 35%;
-    }
-    .intro-animation .fade2 .cloud1{
-        width: 60%;
-        top: -80px;
-        left: 100%;
-    }
-    .intro-animation .fade2 .cloud2 {
-        width: 70%;
-        top: 0;
-        right: 0;
-    }
-
-    .intro-animation .fade2 .cloud3 {
-        width: 70%;
-        top: -86px;
-        left: 240px;
-    }
-    .intro-animation .fade2 .cloud4{
-        width: 75%;
-        top: -30px;
-        left: 1030px;
-    }
-    .intro-animation .fade2 .cloud5{
-        width: 50%;
-        top: -45px;
-        left: 150%;
-    }
-    .intro-animation .fade2 .cloud6{
-        width: 80%;
-        top: 26px;
-        left: 645px;
-    }
-    .intro-animation .land {
-        width: 77%;
-        bottom: 0;
-        left: 0;
-    }
-
-    .intro-animation .up-cloud {
-        width: 90%;
-    }
-
+    
     /* 자기소개 */
     main .container .about .about-box .about-inner .about-skill-img {
         display: flex;
